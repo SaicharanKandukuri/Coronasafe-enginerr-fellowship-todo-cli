@@ -1,2 +1,7 @@
-# Coronasafe-enginerr-fellowship todo-cli
- My code of todo which is submitted in coronasafe enginner fellow ship application
+#My submission to corona safe engineer fellowship test : [Python]
+
+###### warning
+- In repo except all python code is done by me @SaicharanKandukuri and licensed under GNU GPL V3
+- This code is public means if you copy this code submit as your code you may get caght (Use only for reference purposes!)
+
+Link to site : https://apply.pupilfirst.org/
